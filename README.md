@@ -3,8 +3,7 @@
 ## Files needed
 Put the three file of data in data folder:
 ```
-|
-|-> https://www.kaggle.com/competitions/titanic/data
+https://www.kaggle.com/competitions/titanic/data
 ```
 
 ## Usage
